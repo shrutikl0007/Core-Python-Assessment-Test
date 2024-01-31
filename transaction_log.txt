@@ -1,0 +1,5 @@
+Add Fruit Stock: Apples - 1 units
+Add Fruit Stock: Banana - 1 units
+View Fruit Stock
+Update Fruit Stock: Banana - 2 units
+View Fruit Stock
